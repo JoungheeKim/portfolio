@@ -1,0 +1,74 @@
+{
+  "agentic-browser-ko": {
+    "w": 1456,
+    "h": 890
+  },
+  "inspection-platform-ko": {
+    "w": 1456,
+    "h": 852
+  },
+  "ads-lab-ko": {
+    "w": 1456,
+    "h": 852
+  },
+  "schedule-agent-ko": {
+    "w": 1456,
+    "h": 1043
+  },
+  "main-agent-ko": {
+    "w": 1456,
+    "h": 988
+  },
+  "movie-agent-ko": {
+    "w": 1456,
+    "h": 1068
+  },
+  "cupid-ko": {
+    "w": 1154,
+    "h": 732
+  },
+  "kwav2vec-ko": {
+    "w": 1092,
+    "h": 867
+  },
+  "predictive-maintenance-ko": {
+    "w": 1092,
+    "h": 731
+  },
+  "agentic-browser-en": {
+    "w": 1456,
+    "h": 930
+  },
+  "inspection-platform-en": {
+    "w": 1456,
+    "h": 885
+  },
+  "ads-lab-en": {
+    "w": 1456,
+    "h": 852
+  },
+  "schedule-agent-en": {
+    "w": 1456,
+    "h": 1126
+  },
+  "main-agent-en": {
+    "w": 1456,
+    "h": 988
+  },
+  "movie-agent-en": {
+    "w": 1456,
+    "h": 1068
+  },
+  "cupid-en": {
+    "w": 1154,
+    "h": 732
+  },
+  "kwav2vec-en": {
+    "w": 1092,
+    "h": 867
+  },
+  "predictive-maintenance-en": {
+    "w": 1092,
+    "h": 731
+  }
+}
